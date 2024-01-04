@@ -1,7 +1,8 @@
 repo_name: th3mon/rest-demo
-report_id: 4b6a59b24d233d12eeb2d4274221a014
+report_id: 636219b91fd9719913de45a54551a455
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:26:45+00:00'
+timestamp: '2024-01-04T14:53:46+00:00'
 requested_by: stack-file[bot]
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/th3mon/rest-demo
   detection_source: Repo Metadata
 - name: Pug
   description: Robust, elegant, feature rich template engine for nodejs
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1175/pug.png
+  detection_source_url: https://github.com/th3mon/rest-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: Przemysław Szelenberger
   last_updated_on: 2017-08-29 19:53:13.000000000 Z
@@ -64,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/th3mon/rest-demo
   detection_source: Repo Metadata
 - name: nodemon
   description: A simple monitor script for use during development of a node.js app
@@ -87,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/th3mon/rest-demo/blob/master/package.json
   detection_source: package.json
   last_updated_by: Przemysław Szelenberger
   last_updated_on: 2017-08-29 19:53:13.000000000 Z
